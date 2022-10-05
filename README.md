@@ -15,3 +15,6 @@ Im builiding a site with the purpose of being interactive with the user, and all
 
 * Consider including the answers to your daily journal and submission questions here
 * This is also a good place to reflect on the tools and resources used and learned
+
+### Additions
+* I am no adding addtional functionality features to this file
