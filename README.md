@@ -2,14 +2,11 @@
 
 ## about-me
 
-Im builiding a site with the purpose of being interactive with the user, and allow them to find out more about me, the site owner, through a series of question promts.
+Im builiding a site with the purpose of being interactive with the user, and allow them to find out more about me, the site owner, through a series of question promts. The site will contain iformation to get the user to know more about me, as well as functionality for a guessing game. 
 
 ### Author: Devon Terry/seattle-code-201d91
 
 ### Links and Resources
-
-* [submission PR](http://xyz.com)
-* Any Links you used as reference
 
 ### Reflections and Comments
 
@@ -17,7 +14,7 @@ Im builiding a site with the purpose of being interactive with the user, and all
 * This is also a good place to reflect on the tools and resources used and learned
 
 ### Additions
-* I am no adding addtional functionality features to this file
+* I'm adding additional information to my site, as well as additional functionality. 
 
 ### Lab 04
 
