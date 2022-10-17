@@ -2,7 +2,11 @@ h1 {
   font-size: 3rem;
 }
 body {
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/a0/Banksy_Hip_Hop_Rat.jpg);
+  background-image: url(https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3doeS1pcy1za3ktYmx1ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==);
   background-size: cover;
   background-attachment: fixed;
+}
+
+ol {
+  background-image: url(https://aiptcomics.com/ezoimgfmt/i0.wp.com/aiptcomics.com/wp-content/uploads/2020/04/cowboy_bebop.jpg?ezimgfmt=rs%3Adevice%2Frscb1-1&ssl=1&w=1296);
 }
